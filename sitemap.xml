@@ -74,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://x406.cn/posts/e66f6c3/</loc>
-    
-    <lastmod>2024-08-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://x406.cn/posts/7949d787/</loc>
     
     <lastmod>2024-08-06</lastmod>
@@ -92,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://x406.cn/posts/2891e33e/</loc>
+    <loc>https://x406.cn/posts/e66f6c3/</loc>
     
     <lastmod>2024-08-06</lastmod>
     
@@ -120,6 +111,15 @@
   
   <url>
     <loc>https://x406.cn/posts/a806c713/</loc>
+    
+    <lastmod>2024-08-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://x406.cn/posts/2891e33e/</loc>
     
     <lastmod>2024-08-06</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://x406.cn/live2d-widget/demo/login</loc>
+    <loc>https://x406.cn/live2d-widget/demo/demo</loc>
     
     <lastmod>2022-11-12</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://x406.cn/live2d-widget/demo/demo</loc>
+    <loc>https://x406.cn/live2d-widget/demo/login</loc>
     
     <lastmod>2022-11-12</lastmod>
     
@@ -250,14 +250,7 @@
   </url>
   
   <url>
-    <loc>https://x406.cn/categories/Windows/WSL/</loc>
-    <lastmod>2024-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://x406.cn/categories/Windows/Hype-v/</loc>
+    <loc>https://x406.cn/categories/Linux/</loc>
     <lastmod>2024-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -271,7 +264,7 @@
   </url>
   
   <url>
-    <loc>https://x406.cn/categories/Linux/</loc>
+    <loc>https://x406.cn/categories/Windows/Hype-v/</loc>
     <lastmod>2024-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -293,6 +286,13 @@
   
   <url>
     <loc>https://x406.cn/categories/%E5%A5%BD%E7%89%A9%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2024-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://x406.cn/categories/Windows/WSL/</loc>
     <lastmod>2024-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
